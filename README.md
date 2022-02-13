@@ -26,7 +26,8 @@ pip2 install ipaddress
 git clone https://github.com/Shuvo-BBHH/Noobmahdi
 ls
 
-cd Crack_SK
+
+cd Noobmahdi
 
 ls
 
