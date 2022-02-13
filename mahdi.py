@@ -86,9 +86,9 @@ def logo():
 
 	print("""\x1b[0;32m╔════════════════════════════════════════════╗
 
-\x1b[0;33m║WELCOME TO MY TOOLS  [🔥 SUBHAN KHAN 🔥].  ║
+\x1b[0;33m║WELCOME TO MY TOOLS  [🔥 MAHDI HASAN SHUVO 🔥].  ║
 
-\x1b[0;33m║       #TOOL AUTHOR [SUBHAN KHAN] MAFIA PATHAN. ║
+\x1b[0;33m║       #TOOL AUTHOR [MAHDI HASAN] SHUVO . ║
 
 \x1b[0;33m╚════════════════════════════════════════════╝
 
