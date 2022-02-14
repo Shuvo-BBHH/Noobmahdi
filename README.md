@@ -24,11 +24,16 @@ pkg install figlet
 pip2 install ipaddress
 
 git clone https://github.com/Shuvo-BBHH/Noobmahdi
-ls
 
+ls
 
 cd Noobmahdi
 
 ls
 
 python2 mahdi.py
+
+
+# prove
+
+![image](https://user-images.githubusercontent.com/98658558/153833382-e5833908-7566-4403-aa49-71c43559154c.png)
